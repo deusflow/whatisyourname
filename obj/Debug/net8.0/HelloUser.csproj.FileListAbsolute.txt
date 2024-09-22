@@ -1,0 +1,14 @@
+/Users/deuswork/HelloUser/bin/Debug/net8.0/HelloUser
+/Users/deuswork/HelloUser/bin/Debug/net8.0/HelloUser.deps.json
+/Users/deuswork/HelloUser/bin/Debug/net8.0/HelloUser.runtimeconfig.json
+/Users/deuswork/HelloUser/bin/Debug/net8.0/HelloUser.dll
+/Users/deuswork/HelloUser/bin/Debug/net8.0/HelloUser.pdb
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.AssemblyInfoInputs.cache
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.AssemblyInfo.cs
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.csproj.CoreCompileInputs.cache
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.dll
+/Users/deuswork/HelloUser/obj/Debug/net8.0/refint/HelloUser.dll
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.pdb
+/Users/deuswork/HelloUser/obj/Debug/net8.0/HelloUser.genruntimeconfig.cache
+/Users/deuswork/HelloUser/obj/Debug/net8.0/ref/HelloUser.dll
