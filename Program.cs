@@ -24,12 +24,12 @@ class Program
             // Check the length of the name and give feedback
             if (name.Length < 5)
             {
-                Console.WriteLine("You have a short and sweet name!");
+                Console.WriteLine("You have a too short and sweet name!");
             }
-            else if (name.Length <= 10)
+            else if (name.Length <= 9)
             {
                 Console.WriteLine("Your name has a good length!");
-            }
+            } 
             else
             {
                 Console.WriteLine("Wow, you have a long name!");
